@@ -1,0 +1,10 @@
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\bin\Debug\BookDatabaseSearch.exe.config
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\bin\Debug\BookDatabaseSearch.exe
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\bin\Debug\BookDatabaseSearch.pdb
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.csprojAssemblyReference.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.frmDatabase.resources
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.Properties.Resources.resources
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.csproj.GenerateResource.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.csproj.CoreCompileInputs.cache
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.exe
+D:\PROJETOS\UdemyCourse (Alex)\UdemyProject 5\BookDatabaseSearch\obj\Debug\BookDatabaseSearch.pdb
